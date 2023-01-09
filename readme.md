@@ -1,4 +1,4 @@
-# Projeto lista de afarezes
+# Projeto Copa do Mundo
 O projeto teve como finalidade dar os meus primeiros passos na tecnologia Node.JS.
 
 ## 🚀 Começando
