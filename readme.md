@@ -2,7 +2,7 @@
 O projeto teve como finalidade dar os meus primeiros passos na tecnologia Node.JS.
 
 ## 🚀 Começando
-Buscando me tornar um programador Fullstack, me desafiei a produzir um projeto CRUD usando Node.JS com persistência de dados MySQL.
+Buscando me tornar um programador FullStack, me desafiei a produzir um projeto CRUD usando Node.JS com persistência de dados MySQL.
 
 ## 🛠️ Construído com
 
@@ -10,6 +10,7 @@ Buscando me tornar um programador Fullstack, me desafiei a produzir um projeto C
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Nodemon
 * [MySQL](https://dev.mysql.com/downloads/workbench/) - Banco de dados MySQL
 * [Express](https://expressjs.com/pt-br/) - Express
+* [Insomnia](https://insomnia.rest/download) - Insomnia
 * [Curso](https://youtu.be/05WeJCU8CJ4) - Curso de NodeJS com o Prof. Edson Maia
 
 
